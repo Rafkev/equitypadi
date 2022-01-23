@@ -8,7 +8,7 @@
  * registers the activation and deactivation functions, and defines a function
  * that starts the plugin.
  *
- * @link              https://coderninja.in/shivam
+ * @link              https://coderninja.ng/rafkev
  * @since             1.0.0
  * @package           Share_Sales_Amount
  *
