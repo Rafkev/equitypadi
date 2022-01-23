@@ -1,5 +1,5 @@
 # share
-The market share
+The share
 === Plugin Name ===
 Contributors: (this should be a list of wordpress.org userid's)
 Donate link: https://coderninja.ng/rafkev
