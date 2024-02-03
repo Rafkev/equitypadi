@@ -13,12 +13,12 @@
  * @package           Share_Sales_Amount
  *
  * @wordpress-plugin
- * Plugin Name:       Test-Takers
- * Plugin URI:        kevsolutions.com.ng
+ * Plugin Name:       EquityPadi
+ * Plugin URI:        equitypadi.gov.ng
  * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
  * Version:           1.0.0
- * Author:            Awosan Raphael Kolawole
- * Author URI:        kevsolutions.com.ng
+ * Author:            Oluwasanmi Raphael Kolawole
+ * Author URI:        equitypadi.gov.ng
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       share-sales-amount
